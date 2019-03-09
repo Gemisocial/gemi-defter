@@ -16,7 +16,7 @@ This is bugging us like anyone aware of their surroundings. We’ve adopted anim
 
 That's why we are working on&nbsp;**Gemi**, a dedicated, **open source** social networking platform for animal welfare efforts. We're using social media 
 
-as a tool to ignite crowd-activism with mobile and web apps allowing us to connect people and parties involved. Our mission is to enable and encourage participation in crowd-activism efforts for animal welfare, by providing necessary tools for the community.
+as a tool to ignite crowd-activism with apps allowing us to connect people and parties involved. Our mission is to enable and encourage participation in crowd-activism efforts for animal welfare, by providing necessary tools for the community.
 
 Join the initiative, help keep the society notified and let's bring out the activist inside each and everyone of us!
 

@@ -1,14 +1,11 @@
-_Compassion, in which all ethics must take root, can only attain its full breadth and depth if it embraces all living creatures and does not limit itself to mankind.&nbsp;&nbsp;__~ Albert Schweitzer, Nobel Peace Laureate_
+_Compassion, in which all ethics must take root, can only attain its full breadth and depth if it embraces all living creatures and does not limit itself to mankind.&nbsp;&nbsp;_~ Albert Schweitzer, Nobel Peace Laureate
 
 **About This Project**
 
-Gemi /ge mē/ (ship in Turkish, and champions in Latin) is an organization built on the consensus of a software developer, 
-
-a biologist and a vet concerned about **animal welfare** in rural and urban areas. It began as a response to how we can improve the situation with up-to-date technologies.
+Gemi /ge mē/ (ship in Turkish, and champions in Latin) is an organization built on the consensus of a software developer, a biologist and a vet concerned about **animal welfare** in rural and urban areas. It began as a response to how we can improve the situation with up-to-date technologies.
 
 The concern is visible; we live in mutuality, often without realizing the needs of living creatures every day. While all are under nature's ownership, many are under our responsibility to cherish. It's unfortunate, that such awareness may be lacking in certain (parts of) societies where animals need even more support.
 ![image](https://66.media.tumblr.com/9376997c54befb03be37ebb4a396679b/tumblr_inline_po3lju1U0u1wzef04_540.jpg)
-
 Our champion crew-members Mini, Mira and Dada
 
 This is bugging us like anyone aware of their surroundings. We’ve adopted animals and tried finding new homes for more, felt their pain. There’s an immediate need for better tools we thought. Our experience and research have brought us to this:
